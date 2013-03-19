@@ -1,2 +1,7 @@
 courses
 =======
+download the repository
+source the aline.sql file
+
+then you should be able to go to the website (localhost) and view the website 
+along with the table which will allow you to rate cpsc courses and trinke

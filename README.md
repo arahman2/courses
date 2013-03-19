@@ -1,5 +1,5 @@
 cpsc ratings
-=====
+====
 download the repository
 source the aline.sql file
 

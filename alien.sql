@@ -10,3 +10,11 @@ CREATE TABLE ratings (
   rating int,
   PRIMARY KEY (id)
 );
+
+CREATE TABLE trinkle (
+  id int not null auto_increment,
+  name VARCHAR(25),
+  comments BLOB(150),
+  PRIMARY KEY(id)
+);
+  

@@ -18,19 +18,13 @@
 				<div class="content">
 				
 					<!-- CONTENT -->
-					<h3>Welcome!</h3>
-					<p>Welcome to the to UMW course ratings website. </p>
+					<h3>Contact US</h3>
+					<p>Welcome to the to UMW course ratings website here is information on contacting the creaters. </p>
 					
-					<p>Don't you just hate it when you take a course and 
-					expect something yet receive a completely different 
-					experience. Well we have designed this website for 
-					students just like you. This website allows current 
-					UMW students and alumni to rate the courses that they
-					have taken or are currently enrolled in. We strive to
-					provide our users with the most realistic expectations
-					of courses offered here at UMW. You can also post your 
-					own comments and feedback about courses and professors.</p>
-					<img src="images/ufo_003.jpg" />
+					<p>Contact Abdullah Rahmanyar by emailing him @ arahman2@mail.umw.edu </br>
+					Contact Oceana Peemoeller by emailing her @ opeemoel@mail.umw.edu </br>
+					Contact Norah Almahadi by emailing her @ nalmahda@mail.umw.edu</p>
+					
 		
                      <p>&nbsp;</p>
 					<h3>About Us</h3>

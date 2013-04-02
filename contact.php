@@ -19,7 +19,7 @@
 				
 					<!-- CONTENT -->
 					<h3><u><b>Contact Us</u></b></h3>
-					<p>Welcome to the to UMW Course Ratings Website! Here is information to contact us, the creators AKA <b><i>YOUR GODS.</b></i> </p>
+					<p>Welcome to the to UMW Course Ratings Website! Here is information to contact us, the creators:</p>
 					
 					<p>Contact Abdullah Rahmanyar by emailing him <a href="mailto:arahman2@mail.umw.edu">here!</a></br>
 					Contact Oceana Peemoeller by emailing her <a href="mailto:opeemoel@mail.umw.edu">here!</a></br>

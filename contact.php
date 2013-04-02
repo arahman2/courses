@@ -18,8 +18,8 @@
 				<div class="content">
 				
 					<!-- CONTENT -->
-					<h3>Contact Us</h3>
-					<p>Welcome to the to UMW Course Ratings Website! Here is information on contacting us, the creators. </p>
+					<h3><u><b>Contact Us</u></b></h3>
+					<p>Welcome to the to UMW Course Ratings Website! Here is information to contact us, the creators AKA <b><i>YOUR GODS.</b></i> </p>
 					
 					<p>Contact Abdullah Rahmanyar by emailing him <a href="mailto:arahman2@mail.umw.edu">here!</a></br>
 					Contact Oceana Peemoeller by emailing her <a href="mailto:opeemoel@mail.umw.edu">here!</a></br>
@@ -27,8 +27,8 @@
 					
 		
                      <p>&nbsp;</p>
-					<h3>About Us</h3>
-					<p><b>We are all current CPSC students at UMW...</b></p>
+					<h3><u><b>About Us</u></b></h3>
+					<p>We are all current CPSC students at UMW:</p>
 					<p><b><i>Abdullah Rahmanyar</b></i> - is the brains of the operation</p>
 					<p><b><i>Oceana Peemoeller</b></i> - is the one who is always in dire need of coffee</p>
 					<p><b><i>Norah Almahdali</b></i> - keeps everything organized and in order</p>

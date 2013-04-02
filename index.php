@@ -19,18 +19,21 @@
 				
 					<!-- CONTENT -->
 					<h3>Welcome!</h3>
-					<p>Welcome to the UMW Course Ratings Website. </p>
+					<p>You seem to have stumbled upon the tremendous and 
+					wonderful UMW Course Ratings Website. Shall we get onto
+					business now? Excellent, let's begin:</p>
 					
 					<p>Don't you just hate it when you take a course and 
 					expect one thing, but receive a completely different 
-					experience? Well, we designed this website for 
+					experience? Well, you are in luck my dear sir and/or
+					madam, for we designed this website for 
 					students just like you! This website allows current 
-					UMW students and alumni to rate the courses that they
-					have taken or are currently enrolled in. We strive to
+					UMW students and alumni to rate the courses that they've
+					taken or are currently enrolled in. We strive to
 					provide our users with the most realistic expectations
-					for courses offered here at UMW. You can also post your 
-					own comments and feedback about courses, professors, and 
-					Trinkle itself!.</p>
+					for the courses offered here at UMW. You are also able to post 
+					your own comments and feedback about courses, professors, 
+					and Trinkle itself!.</p>
 					<img src="images/ufo_003.jpg" />
 		
                      <p>&nbsp;</p>

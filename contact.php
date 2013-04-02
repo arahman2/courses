@@ -18,20 +18,20 @@
 				<div class="content">
 				
 					<!-- CONTENT -->
-					<h3>Contact US</h3>
-					<p>Welcome to the to UMW course ratings website here is information on contacting the creaters. </p>
+					<h3>Contact Us</h3>
+					<p>Welcome to the to UMW Course Ratings Website! Here is information on contacting us, the creators. </p>
 					
-					<p>Contact Abdullah Rahmanyar by emailing him @ arahman2@mail.umw.edu </br>
-					Contact Oceana Peemoeller by emailing her @ opeemoel@mail.umw.edu </br>
-					Contact Norah Almahadi by emailing her @ nalmahda@mail.umw.edu</p>
+					<p>Contact Abdullah Rahmanyar by emailing him <a href="mailto:arahman2@mail.umw.edu">here!</a></br>
+					Contact Oceana Peemoeller by emailing her <a href="mailto:opeemoel@mail.umw.edu">here!</a></br>
+					Contact Norah Almahadi by emailing her <a href="mailto:nalmahda@mail.umw.edu">here!</a></p>
 					
 		
                      <p>&nbsp;</p>
 					<h3>About Us</h3>
 					<p><b>We are all current CPSC students at UMW...</b></p>
-					<p>Abdullah Rahmanyar - is the brains of the operation</p>
-					<p>Oceana Peemoeller - is the one who is always in dire need of coffee</p>
-					<p>Norah Almahdali - keeps everything organized and in order</p>
+					<p><b><i>Abdullah Rahmanyar</b></i> - is the brains of the operation</p>
+					<p><b><i>Oceana Peemoeller</b></i> - is the one who is always in dire need of coffee</p>
+					<p><b><i>Norah Almahdali</b></i> - keeps everything organized and in order</p>
 					<!-- END CONTENT -->
 					
 				</div>

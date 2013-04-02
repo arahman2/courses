@@ -23,7 +23,7 @@
 					<h3>Current Trinkle Hall Ratings</h3>
 					
 <table>		
-<tr><th>Name</th><th>Comments</th><th>Rating</th></tr>
+<tr><th>Name</th><th>Comments</th></tr>
 <?php
 	include('dbconnect.php');
 	$query = "SELECT name, comments FROM trinkle ORDER BY name";

@@ -26,7 +26,7 @@
 					<table>
 					<tr><td>Name</td><td><input type="text" id="name" name="name" /></td></tr>
 										
-					<tr><td>Rate Trinkle Hall</td><td>Life Threatening <input type="range" name="rating" min="1" max="10" step="1" value="5"/>Unicorns and Rainbows</td></tr>
+					
 					<tr><td>Comments: </td><td><textarea rows="5" cols="25" name="comments" id="comments"></textarea></td></tr>
 					<tr><td>&nbsp;</td><td><input type="submit" value="Post Rating" /></td></tr>
 					</table>

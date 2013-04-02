@@ -22,22 +22,22 @@
 				
 					<!-- CONTENT -->
 					<h3>Rate Trinkle</h3>
-					<p>We are going to rate Trinkle so hard! </p>
+					<p>Thanks for rating trinkle </p>
 					
 					<?php
 					include('dbconnect.php');
 					$name = $_POST['name'];
 					$comments = $_POST['comments'];
-					echo "<p> $name $comments;";
+					
 
 					$query = "INSERT INTO trinkle (name, comments) VALUES ('$name','$comments');";
-					echo "<p>$query</p>";
+					
 					$result = mysqli_query($db, $query)
                          or die("Error Querying Database");
 
 
 					?>
-					
+					<a href="reporta.php">Rate trinkle</a>
 					
 					
 					</form>

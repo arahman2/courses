@@ -20,48 +20,16 @@
 				<div class="content">
 				
 					<!-- CONTENT -->
-					<h3>Current CPSC Course Ratings</h3>
+					<h3>Current Course Ratings</h3>
 					
-<table>		
-<tr><th>Name</th><th>Course</th><th>Professor</th><th>Comments</th><th>Rating</th></tr>
-<?php
-	include('dbconnect.php');
-	$query = "SELECT name, course, professor, comments FROM ratings ORDER BY course";
-    $result = mysqli_query($db, $query)
-                         or die("Error Querying Database");
-    while($row = mysqli_fetch_array($result)) {
-  		$name = $row['name'];
-  		$course = $row['course'];
-  		$professor = $row['professor'];
-  		$comments = $row['comments'];
-  	echo "<tr><td>$name</td><td>$course</td><td>$professor</td><td>$comments</td></tr>\n";
-  }                 
-                         
-                         
-                         
-    mysqli_close($db);
-
-?>
-</table>
-<table>		
-<tr><th>Professor</th><th>Comments</th></tr>
-<?php
-	include('dbconnect.php');
-	$query = "SELECT professor, comments FROM ratings ORDER BY professor";
-    $result = mysqli_query($db, $query)
-                         or die("Error Querying Database");
-    while($row = mysqli_fetch_array($result)) {
-  		$professor = $row['professor'];
-  		$comments = $row['comments'];
-  	echo "<tr><td>$professor</td><td>$comments</td></tr>\n";
-  }                 
-                         
-                         
-                         
-    mysqli_close($db);
-
-?>
-</table>
+<h4>please click one</h4>
+                  
+                    <h4>Links</h4>
+                    <ul>
+                        <li><a href="listall.php">all course ratings</a></li>
+                        <li><a href="listcpsc.php">CPSC course ratings</a></li>
+                        <li><a href="listbuad.php" >BUAD course ratings</a></li>
+						<li><a href="listprof.php">Professor Commments </a></li>
 
 					<!-- END CONTENT -->
 					

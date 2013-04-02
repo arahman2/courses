@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<title>UMW Course Ratings</title>
+<title>UMW CPSC Course Ratings</title>
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
 
@@ -20,7 +20,7 @@
 				<div class="content">
 				
 					<!-- CONTENT -->
-					<h3>Rate a Course</h3>
+					<h3>Rate a CPSC Course</h3>
 					<p>Welcome to the Course Ratings Website for UMW</p>
 					<form method = "post" action = "report2.php">
 					<table>
@@ -54,7 +54,7 @@
 					<option value="Polack">Polack</option>
 					</select></td></tr>
 										
-					<tr><td>Rate the course</td><td>Life Threatening <input type="range" name="rating" min="1" max="10" step="1" value="5"/>Unicorns and Rainbows</td></tr>
+					<tr><td>Rate the course</td><td>(Terrible)0<input type="range" name="rating" min="1" max="10" step="1" value="5"/>(Awesome) 10</td></tr>
 					<tr><td>Comments: </td><td><textarea rows="5" cols="25" name="comments" id="comments"></textarea></td></tr>
 					<tr><td>&nbsp;</td><td><input type="submit" value="Post Rating" /></td></tr>
 					</table>

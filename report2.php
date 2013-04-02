@@ -23,7 +23,7 @@
 				
 					<!-- CONTENT -->
 					<h3>Rate a Course</h3>
-					<p>We are going to rate these courses so hard! </p>
+					<p> </p>
 					
 					<?php
 					include('dbconnect.php');
@@ -31,16 +31,17 @@
 					$course = $_POST['course'];
 					$professor = $_POST['professor'];
 					$comments = $_POST['comments'];
-					echo "<p> $name $course $professor $comments;";
+					$rating = $_POST['rating'];
 					
-					$query = "INSERT INTO ratings (name, course, professor, comments) VALUES ('$name','$course','$professor','$comments');";
-					echo "<p>$query</p>";
+					
+					$query = "INSERT INTO ratings (name, course, professor, comments, rating) VALUES ('$name','$course','$professor','$comments','$rating');";
+					echo "<p>Thanks for Rating</p>";
 					$result = mysqli_query($db, $query)
                          or die("Error Querying Database");
 					
 					
 					?>
-					
+					<a href="report.php">Rate another CPSC course</a>
 					
 					
 					</form>
